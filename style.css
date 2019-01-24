@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color: #efeee7;
+
+    font-style: Times;
+
+    color: #333333;
+  }
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    margin: 50px;
+    padding: 10px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+#container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#main-bio {
+    float: left;
+    width: 70%; 
+    margin-top: 10px;
+}
+
+#bio-image {
+    float: left;
+    width: 200px;
+    margin: 5px;
+}
+
+#contact-info {
+    float: left;
+    width: 30%;
+    margin-top: 5px;
+}
+
+#link-color {
+    color:#d21034;
+}
